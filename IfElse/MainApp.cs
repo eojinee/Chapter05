@@ -7,7 +7,7 @@ namespace IfElse
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("테스트");
         }
     }
 }

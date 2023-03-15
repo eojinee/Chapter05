@@ -4,12 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace p151_ex4
+namespace For
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
+            for(int i =0; i<5; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }

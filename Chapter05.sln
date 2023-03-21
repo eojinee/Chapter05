@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimEoJin_ex3-1while", "KimE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimEoJin_ex3-2dowhile", "KimEoJin_ex3-2dowhile\KimEoJin_ex3-2dowhile.csproj", "{CCEBEE81-3BA1-4A1F-A626-B55C96F3F29D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimEoJin_ex3-3while", "KimEoJin_ex3-3while\KimEoJin_ex3-3while.csproj", "{0F8AAD9C-DE88-47E9-88FC-C1E5427DA0FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimEoJin_ex3-4dowile", "KimEoJin_ex3-4dowile\KimEoJin_ex3-4dowile.csproj", "{23148A00-6F5A-4480-9485-34B9BCB76A1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{CCEBEE81-3BA1-4A1F-A626-B55C96F3F29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCEBEE81-3BA1-4A1F-A626-B55C96F3F29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCEBEE81-3BA1-4A1F-A626-B55C96F3F29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8AAD9C-DE88-47E9-88FC-C1E5427DA0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8AAD9C-DE88-47E9-88FC-C1E5427DA0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8AAD9C-DE88-47E9-88FC-C1E5427DA0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8AAD9C-DE88-47E9-88FC-C1E5427DA0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23148A00-6F5A-4480-9485-34B9BCB76A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23148A00-6F5A-4480-9485-34B9BCB76A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23148A00-6F5A-4480-9485-34B9BCB76A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23148A00-6F5A-4480-9485-34B9BCB76A1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
